@@ -84,6 +84,7 @@ a {
 
 button{
   font-weight: 500;
+  cursor: pointer;
   padding: 0.6rem 1.4rem;
   background: var(--blue-gradient);
   color: white;

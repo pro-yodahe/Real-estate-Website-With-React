@@ -1,0 +1,13 @@
+.f-container{
+    justify-content: center;
+    gap: 20rem;
+}
+.f-left{
+    max-width: 300px;
+    gap: 1rem;
+}
+.f-menu{
+    gap: 1.5rem;
+    margin-top: 1.5;
+    font-weight: 500;
+}
