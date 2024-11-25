@@ -82,6 +82,7 @@ a {
   font-weight: 600;
 }
 
+<<<<<<< HEAD
 button{
   font-weight: 500;
   cursor: pointer;
@@ -98,6 +99,8 @@ button:hover{
   transform: scale(1.1);
 }
 
+=======
+>>>>>>> c42c20f (initial)
 /* media queries */
 @media (min-width: 1536px) {
   .innerWidth {
